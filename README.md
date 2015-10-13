@@ -8,4 +8,4 @@ usage
         maven { url "https://jitpack.io" }
     }
 
-    compile 'com.github.djun100:android-Email:21ed7349a935ba79e11e1a315d881be142276f3d'
+    compile 'com.github.djun100:android-Email:92742b8cdb0d72fa5cd1d8ebb28c9f0e93ffef36'
