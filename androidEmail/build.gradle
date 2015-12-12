@@ -23,5 +23,5 @@ dependencies {
     compile files('libs/additionnal.jar')
     compile files('libs/mail.jar')
 
-    compile 'com.github.djun100:UtilAndroid:6a59e45dc9b8eb30dd5e69c4acc21a2affaa7fd6'
+    compile 'com.github.djun100:UtilAndroid:a849355cfe7e074b9e95e6c44ceaaeb65766f9dc'
 }
