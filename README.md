@@ -1,5 +1,7 @@
 # android-Email
-send email with 163mail.Cannot attach file yet.You can use it to send error log.
+send email with 163mail.Cannot attach file yet.You can use it to send error log.based on
+com.github.djun100:UtilAndroid:a849355cfe7e074b9e95e6c44ceaaeb65766f9dc
+
 usage
 
 
